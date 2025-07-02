@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&family=Rubik+Marker+Hatch&display=swap');
+body{font-size: 18px; 
+font-family: "Comfortaa", sans-serif;
+text-align:center ;
+
+background-color:#BEB7A4;}
+nav a{color: black;
+text-decoration: none;
+font-size: 25px;
+}
+nav{display: flex;
+justify-content: space-around;
+font-weight: 900;}
+#Viglyad{border:15px double white;}
+#creator{border: 15px double wheat;}
+#done{border: 15px double wheat;}
+
+h1{text-shadow: 19px 6px 10px #170c0c}
+.cartinka{width:30px ;height: 25px;
+
+}
